@@ -1,2 +1,2 @@
 # my sample 2
-This is myapp2
+I am archj and I am reviewing git
